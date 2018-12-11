@@ -19,10 +19,10 @@ public class AccountList {
                 accountList.add( new Account(Name='Hi'));
                 System.debug(Limits.getHeapSize());
             }
-            /*System.debug(Limits.getLimitHeapSize());
+            System.debug(Limits.getLimitHeapSize());
             System.debug(Limits.getHeapSize());
 			System.debug(Limits.getLimitHeapSize());
-            System.debug(Limits.getHeapSize());*/
+            System.debug(Limits.getHeapSize());
             
         }
     }
